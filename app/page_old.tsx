@@ -2,6 +2,7 @@
 
 import { useEffect, useRef } from 'react'
 import Link from 'next/link'
+import { motion } from 'framer-motion'
 import { Linkedin, MessageSquare, ArrowRight, Sparkles, Zap, Shield, TrendingUp, Star, FileText, Target, Award, Clock } from 'lucide-react'
 import Navbar from '@/components/Navbar'
 import MagneticButton from '@/components/ui/MagneticButton'
